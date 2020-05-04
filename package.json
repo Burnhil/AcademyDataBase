@@ -1,0 +1,23 @@
+{
+  "name": "academydatabase",
+  "version": "1.0.0",
+  "description": "CRUD ops",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burnhil/AcademyDataBase.git"
+  },
+  "author": "Chris White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burnhil/AcademyDataBase/issues"
+  },
+  "homepage": "https://github.com/Burnhil/AcademyDataBase#readme",
+  "dependencies": {
+    "mongoose": "^5.9.11"
+  }
+}
