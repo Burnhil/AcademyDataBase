@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Burnhil/AcademyDataBase#readme",
   "dependencies": {
-    "mongoose": "^5.9.11"
+    "mongoose": "^5.13.15"
   }
 }
